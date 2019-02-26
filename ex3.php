@@ -7,22 +7,22 @@
     <body>
         <?php
             $vetor = array();
-             $maior = 0;
-             
-            
+            $soma = 0;
+  
             for($i=0; $i < 30; $i++){
                 $vetor[$i] = $i+1;
             }
             
             var_dump($vetor);
             
-                for($i=0; $i < 30; $i++){
-                    
-                   if(){
-                    
-                   }
-                   
-               }
+            //questao a:
+                 echo "o maior elemento do vetor é: " .max($vetor);
+                
+            //questao b: 
+                
+                 
+            //questao c: 
+                
             
         ?>
     </body>
