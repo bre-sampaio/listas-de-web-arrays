@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title> Ex2 </title>
     </head>
     <body>
         <?php
